@@ -1,5 +1,6 @@
 # game info
 # created by Jin July 02 2022
+# Creating a simple game using while loop, variables and if/elif/else statements
 
 # Characters
 is_game_on = True
