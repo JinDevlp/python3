@@ -3,3 +3,4 @@ I am motivated to learn and become a better person than I was yesterday due to t
 This repo will be lessons I learned or projects I have built using Python 3.
 
 Thanks!
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
